@@ -1,0 +1,87 @@
+
+
+#mainTitle {
+    color: rgb(211, 130, 24);
+    font-size: 500%;
+    text-align: center;
+    }
+
+.midTitle {
+    font-size: 230%;
+}
+
+.struggling {
+    font-size: 175%;
+}    
+
+.paragraphs {
+    font-size: 135%;
+}
+
+body {
+    background-color: lightsteelblue;
+    text-align: center;
+}
+
+.subheading {
+    color: rgb(136, 84, 16);
+    font-size: 200%;
+}
+
+.moodChoices {
+    border-top: 5px solid orange;
+}
+
+.box {
+    height: 550px;
+    width: 2450px;
+    padding: 10px;
+    border: 8px solid orange;
+    margin: 40px;
+    align-content: center;
+}
+
+.unorderedList {
+    text-align: center;
+    font-size: 125%;
+    font-weight: 900;
+    list-style-position: inside;
+}
+
+.orderedList {
+    text-align: center;
+    font-size: 125%;
+    font-weight: 900;
+    list-style-position: inside;
+}
+
+#breakExplanation {
+    border-top: 3px solid coral;
+    padding: 20px;
+    color: rgb(211, 130, 24);
+    font-size: 200%
+}
+
+footer {
+    border-top: 3px solid coral;
+    padding: 20px;
+    font-size:150%;
+    }
+
+.moodTitle {
+    font-size: 250%;
+    color: rgb(211, 130, 24);
+}
+
+.unorderedListMood {
+    text-align: center;
+    font-size: 200%;
+    font-weight: 900;
+    list-style-position: inside;
+    color: rgb(145, 89, 17);
+}
+
+.mainListItem {
+    padding-top: 75px;
+    padding-bottom: 20px;
+}
